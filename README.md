@@ -20,7 +20,7 @@ Scraped PER data from ESPN website. (Scrape_data_from_ESPN.py) - <br>
 <h4> Results: </h4>
 After some data work, we saw that Europeans reach their peak later than the North Americans: <br>
 
-Europe            6.322816 <br>
-North America     5.404482 <br>
+Europe            6.3 years <br>
+North America     5.4 years <br>
 
 For the research, work done, and results, see the file main_reasearch.ipynb
